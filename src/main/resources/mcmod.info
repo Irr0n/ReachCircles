@@ -1,0 +1,16 @@
+[
+{
+  "modid": "reach_circles",
+  "name": "Reach Circles",
+  "description": "A reach circles display for blockgame.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["iron"],
+  "credits": "Remain anonymous, friend.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
